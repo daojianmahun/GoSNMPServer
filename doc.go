@@ -14,7 +14,7 @@ Build your own SNMP Server, try this:
 
 Some Code Here:
 
-	import "github.com/slayercat/gosnmp"
+	import "github.com/gosnmp/gosnmp"
 	import "github.com/slayercat/GoSNMPServer"
 	import "github.com/slayercat/GoSNMPServer/mibImps"
 

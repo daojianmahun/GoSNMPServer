@@ -3,7 +3,7 @@ package mibImps
 import (
 	"bytes"
 	"github.com/sirupsen/logrus"
-	"github.com/slayercat/gosnmp"
+	"github.com/gosnmp/gosnmp"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/suite"
 	"net"

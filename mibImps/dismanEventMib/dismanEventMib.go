@@ -1,6 +1,6 @@
 package dismanEventMib
 
-import "github.com/slayercat/gosnmp"
+import "github.com/gosnmp/gosnmp"
 import "github.com/slayercat/GoSNMPServer"
 import "github.com/shirou/gopsutil/host"
 

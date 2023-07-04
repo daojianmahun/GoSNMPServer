@@ -3,7 +3,7 @@ package main
 import "os"
 import "strings"
 import "github.com/sirupsen/logrus"
-import "github.com/slayercat/gosnmp"
+import "github.com/gosnmp/gosnmp"
 import "github.com/slayercat/GoSNMPServer"
 import "github.com/slayercat/GoSNMPServer/mibImps"
 
